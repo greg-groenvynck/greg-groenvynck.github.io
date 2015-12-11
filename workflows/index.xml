@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflows on purehugo</title>
+    <link>http://greg-groenvynck.github.io/workflows/</link>
+    <description>Recent content in Workflows on purehugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2015 16:23:59 +0100</lastBuildDate>
+    <atom:link href="http://greg-groenvynck.github.io/workflows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Workflows</title>
+      <link>http://greg-groenvynck.github.io/workflows/first/</link>
+      <pubDate>Sun, 06 Dec 2015 16:23:59 +0100</pubDate>
+      
+      <guid>http://greg-groenvynck.github.io/workflows/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;taak-workflows:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;taak: Workflows&lt;/h1&gt;
+
+&lt;h2 id=&#34;algemeen:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Algemeen&lt;/h2&gt;
+
+&lt;p&gt;GoHugo is een leuke manier om een site te creëren maar is veel moeilijker om aanpassingen te maken naar keuze omdat de themes waarmee je kan werken zijn beperkt en om aanpassingen te maken moet je al kennis hebben van css, bootstrap,… Tegenover Wordpress kan de gebruiker op een relatief eenvoudige wijze de inhoud (content) wijzigen en/of aanvullen zonder dat daar technische kennis voor vereist is.&lt;/p&gt;
+
+&lt;h2 id=&#34;info:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Info&lt;/h2&gt;
+
+&lt;p&gt;Om Hugo te kunnen draaien is er geen host nodig bij Wordpress wel maar daar zit je al met een geïntegreede localhost&lt;/p&gt;
+
+&lt;h2 id=&#34;mijn-persoonlijke-ervaring-van-gohugo:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Mijn persoonlijke ervaring van GoHugo:&lt;/h2&gt;
+
+&lt;p&gt;Ik ben persoonlijk niet goed in codetaal dus dit is voor mij niet mijn voorkeur. Ik heb zelf nog niet veel gewerkt met Wordpress maar het ziet er gemakkelijker uit dan Hugo Op zicht is Hugo wel leuk om in te werken maar zoals al gezegd een beetje te ingewikkeld voor geavanceerde aanpassingen.&lt;/p&gt;
+
+&lt;h2 id=&#34;bijgeleerd:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Bijgeleerd&lt;/h2&gt;
+
+&lt;p&gt;Bij het maken van de Hugo site heb ik zelf wel wat bijgeleerd zoals hoe ik (in bepaalde theme’s toch) een menu kan maken voor naar deelpagina’s te gaan.
+structuur Ik ben begonnen met eerst begonnen met in mijn content een menu te creëren voor stage en GIP. Vervolgens ben ik in layout verder gegaan met de partials wat aan te passen. Dan ben ik in mijn GIP map gegaan om daar dan dit verslag in te vrewerken&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
