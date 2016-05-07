@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflows on purehugo</title>
-    <link>http://greg-groenvynck.github.io/workflows/</link>
+    <link>http://localhost:1313/workflows/</link>
     <description>Recent content in Workflows on purehugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 16:23:59 +0100</lastBuildDate>
-    <atom:link href="http://greg-groenvynck.github.io/workflows/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/workflows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Workflows</title>
-      <link>http://greg-groenvynck.github.io/workflows/first/</link>
+      <link>http://localhost:1313/workflows/first/</link>
       <pubDate>Sun, 06 Dec 2015 16:23:59 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/workflows/first/</guid>
+      <guid>http://localhost:1313/workflows/first/</guid>
       <description>
 
 &lt;h1 id=&#34;taak-workflows:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;taak: Workflows&lt;/h1&gt;

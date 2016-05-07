@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>purehugo</title>
-    <link>http://greg-groenvynck.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on purehugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Dec 2015 20:41:49 +0100</lastBuildDate>
-    <atom:link href="http://greg-groenvynck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IT Tappa</title>
-      <link>http://greg-groenvynck.github.io/IT-Tappa/IT-Tappa/</link>
+      <link>http://localhost:1313/IT-Tappa/IT-Tappa/</link>
       <pubDate>Thu, 10 Dec 2015 20:41:49 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/IT-Tappa/IT-Tappa/</guid>
+      <guid>http://localhost:1313/IT-Tappa/IT-Tappa/</guid>
       <description>
 
 &lt;h1 id=&#34;it-tapa:3dbca723665b6eaf124404bad10e114a&#34;&gt;IT-Tapa&lt;/h1&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>welkomswoordje</title>
-      <link>http://greg-groenvynck.github.io/post/welkomswoordje/</link>
+      <link>http://localhost:1313/post/welkomswoordje/</link>
       <pubDate>Thu, 10 Dec 2015 16:06:31 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/post/welkomswoordje/</guid>
+      <guid>http://localhost:1313/post/welkomswoordje/</guid>
       <description>
 
 &lt;h1 id=&#34;taak-welkomstwoord:888c7a91db60228918f66d96d586aad3&#34;&gt;taak: Welkomstwoord&lt;/h1&gt;
@@ -83,15 +83,33 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
     
     <item>
       <title>Engels IT-Biography</title>
-      <link>http://greg-groenvynck.github.io/Engels/taak/</link>
+      <link>http://localhost:1313/Taken/Taken/</link>
       <pubDate>Sun, 06 Dec 2015 16:38:47 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/Engels/taak/</guid>
+      <guid>http://localhost:1313/Taken/Taken/</guid>
+      <description>
+
+&lt;h1 id=&#34;taak-autobiography:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;taak: Autobiography&lt;/h1&gt;
+
+&lt;h3 id=&#34;bemoei-u-me-u-eigen-zaken:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;bemoei u me u eigen zaken&lt;/h3&gt;
+
+&lt;h2 id=&#34;it-autobiography:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;IT autobiography&lt;/h2&gt;
+
+&lt;h2 id=&#34;test123:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;Test123&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Engels IT-Biography</title>
+      <link>http://localhost:1313/Engels/taak/</link>
+      <pubDate>Sun, 06 Dec 2015 16:38:47 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Engels/taak/</guid>
       <description>
 
 &lt;h1 id=&#34;taak-autobiography:ecb4d1c77e1c2276d1cb661061aa0b47&#34;&gt;taak: Autobiography&lt;/h1&gt;
 
-&lt;h3 id=&#34;tue-oct-20-2015:ecb4d1c77e1c2276d1cb661061aa0b47&#34;&gt;Tue, Oct 20, 2015&lt;/h3&gt;
+&lt;h3 id=&#34;bemoei-u-me-u-eigen-zaken:ecb4d1c77e1c2276d1cb661061aa0b47&#34;&gt;bemoei u me u eigen zaken&lt;/h3&gt;
 
 &lt;h2 id=&#34;it-autobiography:ecb4d1c77e1c2276d1cb661061aa0b47&#34;&gt;IT autobiography&lt;/h2&gt;
 
@@ -109,10 +127,10 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
     
     <item>
       <title>Workflows</title>
-      <link>http://greg-groenvynck.github.io/workflows/first/</link>
+      <link>http://localhost:1313/workflows/first/</link>
       <pubDate>Sun, 06 Dec 2015 16:23:59 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/workflows/first/</guid>
+      <guid>http://localhost:1313/workflows/first/</guid>
       <description>
 
 &lt;h1 id=&#34;taak-workflows:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;taak: Workflows&lt;/h1&gt;

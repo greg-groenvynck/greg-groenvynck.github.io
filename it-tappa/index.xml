@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It-Tappas on purehugo</title>
-    <link>http://greg-groenvynck.github.io/it-tappa/</link>
+    <link>http://localhost:1313/it-tappa/</link>
     <description>Recent content in It-Tappas on purehugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Dec 2015 20:41:49 +0100</lastBuildDate>
-    <atom:link href="http://greg-groenvynck.github.io/it-tappa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it-tappa/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>IT Tappa</title>
-      <link>http://greg-groenvynck.github.io/IT-Tappa/IT-Tappa/</link>
+      <link>http://localhost:1313/IT-Tappa/IT-Tappa/</link>
       <pubDate>Thu, 10 Dec 2015 20:41:49 +0100</pubDate>
       
-      <guid>http://greg-groenvynck.github.io/IT-Tappa/IT-Tappa/</guid>
+      <guid>http://localhost:1313/IT-Tappa/IT-Tappa/</guid>
       <description>
 
 &lt;h1 id=&#34;it-tapa:3dbca723665b6eaf124404bad10e114a&#34;&gt;IT-Tapa&lt;/h1&gt;
