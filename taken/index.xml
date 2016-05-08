@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2015 16:38:47 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/taken/index.xml" rel="self" type="application/rss+xml" />
-    
+
     <item>
       <title>Engels IT-Biography</title>
       <link>http://localhost:1313/Taken/Taken/</link>
       <pubDate>Sun, 06 Dec 2015 16:38:47 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/Taken/Taken/</guid>
       <description>
 
@@ -26,6 +26,6 @@
 &lt;h2 id=&#34;test123:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;Test123&lt;/h2&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

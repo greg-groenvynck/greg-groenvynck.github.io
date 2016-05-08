@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Dec 2015 20:41:49 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+
     <item>
       <title>IT Tappa</title>
       <link>http://localhost:1313/IT-Tappa/IT-Tappa/</link>
       <pubDate>Thu, 10 Dec 2015 20:41:49 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/IT-Tappa/IT-Tappa/</guid>
       <description>
 
@@ -47,12 +47,12 @@
 &lt;hr /&gt;
 </description>
     </item>
-    
+
     <item>
       <title>welkomswoordje</title>
       <link>http://localhost:1313/post/welkomswoordje/</link>
       <pubDate>Thu, 10 Dec 2015 16:06:31 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/post/welkomswoordje/</guid>
       <description>
 
@@ -80,12 +80,12 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
 &lt;hr /&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Engels IT-Biography</title>
       <link>http://localhost:1313/Taken/Taken/</link>
       <pubDate>Sun, 06 Dec 2015 16:38:47 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/Taken/Taken/</guid>
       <description>
 
@@ -98,12 +98,12 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
 &lt;h2 id=&#34;test123:fedfe53cd1e4d4ddbbc2f0e0f60743ca&#34;&gt;Test123&lt;/h2&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Engels IT-Biography</title>
       <link>http://localhost:1313/Engels/taak/</link>
       <pubDate>Sun, 06 Dec 2015 16:38:47 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/Engels/taak/</guid>
       <description>
 
@@ -124,12 +124,12 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
 &lt;h2 id=&#34;a-href-http-nl-tinypic-com-ref-34fzccj-target-blank-img-src-http-i63-tinypic-com-34fzccj-jpg-border-0-alt-image-and-video-hosting-by-tinypic-a:ecb4d1c77e1c2276d1cb661061aa0b47&#34;&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=34fzccj&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://i63.tinypic.com/34fzccj.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Workflows</title>
       <link>http://localhost:1313/workflows</link>
       <pubDate>Sun, 06 Dec 2015 16:23:59 +0100</pubDate>
-      
+
       <guid>http://localhost:1313/workflows</guid>
       <description>
 
@@ -155,6 +155,6 @@ structuur Ik ben begonnen met eerst begonnen met in mijn content een menu te cre
 &lt;hr /&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>
