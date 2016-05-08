@@ -127,10 +127,10 @@ Je kan via gip op alle taken terecht komen en stageverslagen is voorlopig een bu
     
     <item>
       <title>Workflows</title>
-      <link>http://localhost:1313/workflows/first/</link>
+      <link>http://localhost:1313/workflows</link>
       <pubDate>Sun, 06 Dec 2015 16:23:59 +0100</pubDate>
       
-      <guid>http://localhost:1313/workflows/first/</guid>
+      <guid>http://localhost:1313/workflows</guid>
       <description>
 
 &lt;h1 id=&#34;taak-workflows:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;taak: Workflows&lt;/h1&gt;
