@@ -121,32 +121,24 @@
 <p><strong>Bedrijfsdesciptie</strong></p>
 
 <h2 >WHA: Woonhaven Antwerpen</h2>
-
-<ul>
-<li>Ze werken volgens het systeem dat je kan bellen naar hun helpdesk of dat je naar hun lokale kantoren kan komen. </li>
-</ul>
-
-<h2 >Sociale dienst</h2>
-
-<ul>
-<li>Elke huurder heeft een eigen sociaal assistent. </li>
-<li>Die kan je bellen of mailen om af te spreken.</li>
-<li>Maar ze komt ook zelf naar jou.</li>
-</ul>
-
-<h2 >huurderadministratie</h2>
-
-<ul>
-<li>Huren wil ook zeggen af en toe administratie. Daarvoor kan je terecht bij de dienst huuradministratie.</li>
-<li>Deze dienst kan je bellen, mailen of spreken in een van de 9 huurderskantoren.</li>
-<li>Bij de dienst huurdersadministratie vind je ook de juridische dienst. Die helpt je onder meer bij betalingsproblemen.</li>
-</ul>
-<h2 >Tachnische dienst</h2>
-
-<ul>
-<li>Daar kan je als huurder naar mailen of bellen bij technische problemen.</li>
-</ul>
-
+<div id="myProgress">
+    <div id="myBar"></div>
+</div>
+<script>
+function move() {
+    var elem = document.getElementById("myBar");
+    var width = 1;
+    var id = setInterval(frame, 10);
+    function frame() {
+        if (width >= 100) {
+            clearInterval(id);
+        } else {
+            width++;
+            elem.style.width = width + '%';
+        }
+    }
+}
+</script>
 
 <hr />
 
