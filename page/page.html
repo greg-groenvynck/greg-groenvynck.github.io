@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Ajax Test
+    </title>
+    <script type="text/javascript">
+    TweenPlugin.activate([AutoAlphaPlugin]);
+    function showImage(){
+        document.getElementById('loadingImage').style.visibility='hidden';
+        TweenMax.to('#loadingImage', 3, {left: "32%", ease:Elastic.easeInOut, autoAlpha: 1});
+    }
+    var carName = "Volvo";
+    document.getElementById("demo").innerHTML = carName;
+    </script>
+    <style type="text/css">
+			body {
+        background-image: url("http://www.intrawallpaper.com/static/images/abstract-mosaic-background.png");
+				font-family: Georgia, "Times New Roman", serif;
+        color: white;
+				text-align: center;
+        overflow: hidden;
+    }
+
+			.header {
+				margin: 400px auto 400px 0px;
+        color: white;
+      }
+
+      .loadingImage {
+        position:"absolute";
+        top: 150px;
+        color: white;
+      }
+
+		</style>
+    </head>
+<body>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js">
+</script>
+    <p id="demo"></p>
+    <input type="button" value="A" />
+    <input type="button" value="B" onclick="showImage();"/>
+    <input type="button" value="C"/>
+    <input type="button" value="D"/>
+    </br></br></br></br>
+    <img id="loadingImage"src="http://media.tumblr.com/tumblr_liafk4THsg1qg26fco1_500.gif" style="visibility:hidden; width: 35%; height: auto; position: absolute;"/>
+    <div class="header">
+      <h2>Wat doet een neuroscientist?</h2>
+        <p>A. Study van speciefiek Neuroenhancement </p>
+        <p>B. Bezighouden met alle aspecten van het zenuwstelsel.</p>
+        <p>C. Houd zich bezig alleen met de groei en evolutie met de mens.</p>
+        <p>D. Houd zich bezig met het gedrag van de mens.</p>
+      <a href="natuurwetenschappen.html"> Previous Page</a>
+      <a href="page2.html">Next Page</a>
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+      <div class="progress">
+        <div id="bar1" class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%; bottom:10%;">
+          40% Complete
+        </div>
+      </div>
+</body>
+</html>
