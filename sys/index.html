@@ -220,32 +220,73 @@ Hierbij communiceren uw computers bv met elkaar aan de hand van de verbinding tu
     <div class="post-description">
 
 
-<h1 >IT-Tapa</h1>
+<h1 >Testopstelling</h1>
 
-<p><strong>Google forms</strong></p>
+<p><strong>The Wall</strong></p>
 
-<h2 >Wat precies?</h2>
-
-<ul>
-<li>Onze bedoeling was om leerkrachten een alternatieve manier te laten zien van hoe ze testen kunnen geven aan de leerlingen.</li>
-<li>Een efficiëntere manier om te verbeteren en makkelijk bij te houden aangezien het digitaal staat opgeslagen.</li>
-</ul>
-
-<h2 >Waarom dit onderwerp?</h2>
+<h2>PHP met mySQL server</h2>
 
 <ul>
-<li>We vonden dat dit misschien wel interessant was voor bepaalde leerkrachten met theorie vakken. Het verbeteren zou hierdoor vlotter kunnen gaan (standaards verbetersleutels bijvoorbeeld) en hun tijd besparen.</li>
-<li>Aangezien dat alle leerkrachten al standaard een Immalle adres hebben, is het gemakkelijk voor leerkrachten om hiermee te werken. Ze kennen reeds de werking en er moet geen nieuwe site of tool gecreëerd worden.</li>
+<li>Virtuele server met Windows</li>
+<li>Virtuele server met Linux</li>
 </ul>
 
-<h2 >Resultaat</h2>
+<h2 >Testen</h2>
 
 <ul>
-<li>6 leerkrachten + directeur zijn komen volgen.</li>
-<li>Nu weten we ook een beetje hoe het voeld om leerkracht te zijn.</li>
+<li>Linux: Pagina’s hosten met php in Apache2 en testen dat men een voor en achternaam kan ingeven op de pagina.</li>
+<li>Windows: Zelfde concept als in Linux enkel dit echt op een server draaien.Mogelijk op een andere virtuele client dat aangesloten is op de server een verbinding maken en dan dit op de client kunnen ingeven.</li>
 </ul>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/87JS3Lb6Cyo" frameborder="10" allowfullscreen></iframe>
+<h2 >Versies</h2>
+
+<ul>
+<li>versie VirtualBox: Versie 5.0.14 r105127</li>
+<li>versie Xubuntu: Xubuntu 14.0.4</li>
+<li>Versie Windows server: 2012 R2</li>
+<li>versie host-machine: Windows 7/10</li>
+</ul>
+
+<h2>PHP: (Mario)</h2>
+
+<ul>
+  <p>Bij het creëren van de testopstelling hebben we vooral met Linux Xubuntu gewerkt.</p>
+  <p>Een mogelijk alternatief was de Windows server met IIS, maar hier doken enkele problemen op in verband met het maken van de connectie tussen de database en de webpagina. </p>
+  <p>Om de webpagina lokaal te kunnen testen op de Xubuntu hebben we gebruik gemaakt van apache2. </p>
+  <p>Handig hieraan is dat het samen met de Virtuele machine word opgestart en dat je bestanden altijd gehost worden. </p>
+  <p>De bestanden die gehost worden plaats je in de var/www/html map van het Device “Computer”. </p>
+  <p>Om in deze map te geraken moet je wel een programma installeren via Sudo apt-get install Nautilus. </p>
+  <p>Eenmaal je bestander hier gezet kan je ze ook nog steeds aanpassen.</p>
+  <a><img src="http://i68.tinypic.com/2072w0k.png" border="1"></a>
+</ul>
+
+<h2>MYSQL (Wout)</h2>
+
+<ul>
+  <p>Als testopstelling hebben we ook het opensource-managementsysteem voor databases namelijk MYSQL gebruikt. </p>
+  <p>Omdat we willen testen dat wanneer je een klasnummer ingeeft de gebruikt een leerling terugkrijgt , moeten we met een database werken. </p>
+  <p>We hebben in MYSQL Workbench een database ‘testopstelling’ met een tabel ‘klasgenoten’ gemaakt met hierin verschillende query’s. </p>
+  <p>Het werken met MYSQL is in het algemeen goed verlopen. We hebben kleine problemen gehad met het installeren van PhpMyAdmin was moeilijk verlopen. </p>
+  <p>Nadat dit was gelukt hebben we geen enkel probleem meer gehad. </p>
+  <p>De code in MYSQL zelf was ook niet moeilijk omdat we dit met het vak software ook al veel met SQL bezig geweest zijn. </p>
+  <p>Je kan zelfs een code genereren zodat je zelf de code niet moet schrijven. </p>
+  <p>Dit heeft wel een nadeel omdat je wanneer je een fout hebt of een query moet toevoegen, je geen idee hebt hoe dit werkt en dus ook een nieuwe tabel zal moeten maken.</p>
+</ul>
+
+
+<h2>Linken van PHP met MYSQL (Greg)</h2>
+
+<ul>
+  <p>Php en mysql kan werken met een mysql database door het gebruik van MySQL extension of een PDO (PHP data objects). </p>
+  <p>Zowel MySQL en PDO hebben hun voordelen. MySQLi zal alleen werken met SQL databases en PDO kan met 12 verschillende databases werken. </p>
+  <p>Als je moet switchen tussen verschillende databases is het het best om dus PDO te gebruiken aangezien de verschillende databases die je kan gebruiken. </p>
+  <p>Met MySQLi moet je de hele code herschrijven wat een voordeel is en ook een nadeel. </p>
+  <p>Het voordeel is dat je zelf de specificaties kan schrijven het nadeel is dit vraag veel kennis werk en moeite. </p>
+  <p>Beiden zijn object georiënteerd maar MySQLi bied een API aan. </p>
+  <p>We hebben uiteindelijk ook nog een filmpje gemaakt met ons resultaat. </p>
+  <p>Het filmpje staat op youtube maar vindt u ook hieronder. </p>
+</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEnIh1G3Hg4" frameborder="0" allowfullscreen></iframe>
 
 <hr />
 
