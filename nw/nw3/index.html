@@ -37,25 +37,24 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js">
 </script>
     <p id="demo"></p>
-    <input type="button" value="A" onclick="showImage();"/>
+    <input type="button" value="A"/>
     <input type="button" value="B"/>
     <input type="button" value="C"/>
-    <input type="button" value="D"/>
+    <input type="button" value="D" onclick="showImage();"/>
     </br></br></br></br>
     <img id="loadingImage"src="http://media.tumblr.com/tumblr_liafk4THsg1qg26fco1_500.gif" style="visibility:hidden; width: 35%; height: auto; position: absolute;"/>
     <div class="header">
-      <h2>Wat is het atoomnummer van ijzer?</h2>
-      <p>A. 26</p>
-      <p>B. 23</p>
-      <p>C. 24</p>
-      <p>D. 17</p>
-          </br></br></br></br>
-      <a href="../nw/nw2">Next Page</a>
+      <h2>Als een ziekte autosomaal ressensief is dan zijn ze...</h2>
+        <p>A. Ze zijn geslachtsgebonden en je kan drager zijn. </p>
+        <p>B. Ze zijn <span style="color:red">niet</span> geslachtsgebonden en je kan <span style="color:red">geen</span> drager zijn.</p>
+        <p>C. Ze zijn geslachtsgebonden en je kan <span style="color:red">geen</span> drager zijn.</p>
+        <p>D. Ze zijn <span style="color:red">niet</span> geslachtsgebonden en kan je drager zijn.</p>
+      <a href="../nw/nw2"> Previous Page</a>
+      <a href="http://greg-groenvynck.github.io/">You have won!</a>
       <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-          </br></br></br></br>
       <div class="progress">
-        <div id="bar1" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:%; bottom:10%;">
-          0% Complete
+        <div id="bar1" class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%; bottom:10%;">
+          100% Complete
         </div>
       </div>
 </body>
